@@ -2,10 +2,10 @@
   "name": "proyecto3",
   "version": "1.0.0",
   "description": "HTML, CSS, SASS",
-  "source": "./src/index.html",
+  "source": "src/index.html",
   "scripts": {
     "dev": "parcel src/index.html",
-    "pro": "parcel buil src/index.html"
+    "build": "parcel build src/index.html"
   },
   "author": "albertdev03",
   "license": "ISC",
