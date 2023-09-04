@@ -10,7 +10,7 @@
 79C:\Users\sobremesa\Desktop\Proyecto3\node_modules\svgo\plugins\removeViewBox.js133383218365765090 0
 102C:\Users\sobremesa\Desktop\Proyecto3\node_modules\css-select\node_modules\entities\lib\esm\encode.d.ts133383218366550073 0
 96C:\Users\sobremesa\Desktop\Proyecto3\node_modules\caniuse-lite\data\features\css-first-letter.js133383218373069198 0
-41C:\Users\sobremesa\Desktop\Proyecto3\dist133383229691195456 1
+41C:\Users\sobremesa\Desktop\Proyecto3\dist133383239762067118 1
 90C:\Users\sobremesa\Desktop\Proyecto3\node_modules\lightningcss-win32-x64-msvc\package.json133383218329167087 0
 58C:\Users\sobremesa\Desktop\Proyecto3\node_modules\escalade133383218335998093 1
 85C:\Users\sobremesa\Desktop\Proyecto3\node_modules\css-tree\lib\generator\sourceMap.js133383218376561861 0
@@ -56,7 +56,7 @@
 89C:\Users\sobremesa\Desktop\Proyecto3\node_modules\lmdb\node_modules\msgpackr\dist\test.js133383218350708281 0
 81C:\Users\sobremesa\Desktop\Proyecto3\node_modules\caniuse-lite\data\regions\TC.js133383218386666273 0
 82C:\Users\sobremesa\Desktop\Proyecto3\node_modules\sass\types\legacy\exception.d.ts133383222947517550 0
-49C:\Users\sobremesa\Desktop\Proyecto3\package.json133383222948197212 0
+49C:\Users\sobremesa\Desktop\Proyecto3\package.json133383233818749267 0
 86C:\Users\sobremesa\Desktop\Proyecto3\node_modules\utility-types\dist\mapped-types.d.ts133383218348880227 0
 121C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\utils.js133383218371224514 0
 69C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@swc\helpers\_\_get133383218376941956 1
@@ -99,7 +99,7 @@
 62C:\Users\sobremesa\Desktop\Proyecto3\node_modules\browserslist133383218337943159 1
 76C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\cache\lib\index.js133383218336448100 0
 83C:\Users\sobremesa\Desktop\Proyecto3\node_modules\htmlnano\docs\docs\040-presets.md133383218366149891 0
-51C:\Users\sobremesa\Desktop\Proyecto3\src\index.html133383229657642948 0
+51C:\Users\sobremesa\Desktop\Proyecto3\src\index.html133383239463281175 0
 75C:\Users\sobremesa\Desktop\Proyecto3\node_modules\browserslist\package.json133383218336495276 0
 87C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@swc\helpers\src\_async_generator.mjs133383218380430701 0
 100C:\Users\sobremesa\Desktop\Proyecto3\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Nth.cjs133383218368486847 0
@@ -134,7 +134,7 @@
 95C:\Users\sobremesa\Desktop\Proyecto3\node_modules\caniuse-lite\data\features\referrer-policy.js133383218385650304 0
 100C:\Users\sobremesa\Desktop\Proyecto3\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDO.cjs133383218345736317 0
 86C:\Users\sobremesa\Desktop\Proyecto3\node_modules\svgo\plugins\removeOffCanvasPaths.js133383218363408721 0
-62C:\Users\sobremesa\Desktop\Proyecto3\src\assets\scss\main.scss133383222378369896 0
+62C:\Users\sobremesa\Desktop\Proyecto3\src\assets\scss\main.scss133383239608636546 0
 60C:\Users\sobremesa\Desktop\Proyecto3\node_modules\parcel\src133383218335071799 1
 88C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133383218336183066 0
 93C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\fs-search\fs-search.darwin-x64.node133383218346547522 0
@@ -5802,7 +5802,7 @@
 84C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\reporter-cli\src\render.js133383218345508847 0
 83C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\reporter-cli\src\utils.js133383218345927647 0
 93C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133383218350175232 0
-64C:\Users\sobremesa\Desktop\Proyecto3\dist\index.4717fcfd.css.map133383229691185447 0
+64C:\Users\sobremesa\Desktop\Proyecto3\dist\index.4717fcfd.css.map133383239762057119 0
 93C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133383218372581888 0
 74C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\profiler\LICENSE133383218328292902 0
 79C:\Users\sobremesa\Desktop\Proyecto3\node_modules\@parcel\profiler\package.json133383218345578120 0
@@ -6598,6 +6598,6 @@
 63C:\Users\sobremesa\Desktop\Proyecto3\node_modules\.bin\svgo.cmd133383218388382056 0
 63C:\Users\sobremesa\Desktop\Proyecto3\node_modules\.bin\svgo.ps1133383218388382056 0
 77C:\Users\sobremesa\Desktop\Proyecto3\node_modules\.bin\update-browserslist-db133383218388422063 0
-60C:\Users\sobremesa\Desktop\Proyecto3\dist\index.4717fcfd.css133383229691150447 0
+60C:\Users\sobremesa\Desktop\Proyecto3\dist\index.4717fcfd.css133383239762002112 0
 59C:\Users\sobremesa\Desktop\Proyecto3\dist\index.e5ac7667.js133383229690838162 0
-52C:\Users\sobremesa\Desktop\Proyecto3\dist\index.html133383229690773163 0
+52C:\Users\sobremesa\Desktop\Proyecto3\dist\index.html133383239762002112 0
