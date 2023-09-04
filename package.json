@@ -2,7 +2,7 @@
   "name": "proyecto3",
   "version": "1.0.0",
   "description": "esto es una prueba",
-  "source": "src/index.html",
+  "source": "./src/index.html",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
