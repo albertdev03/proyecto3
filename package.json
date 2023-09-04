@@ -1,19 +1,21 @@
 {
   "name": "proyecto3",
   "version": "1.0.0",
-  "description": "esto es una prueba",
-  "source": "./src/index.html",
+  "description": "",
+  "sourse": "./src/index.html",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "start": "parcel src/index.html",
+    "test": "parcel build src/index.html"
   },
-  "author": "albert",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^5.3.1"
-  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
     "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.1"
   }
 }
