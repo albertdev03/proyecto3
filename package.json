@@ -1,13 +1,13 @@
 {
   "name": "proyecto3",
   "version": "1.0.0",
-  "description": "HTML, CSS, SASS",
+  "description": "esto es una prueba",
   "source": "src/index.html",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
-  "author": "albertdev03",
+  "author": "albert",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.1"
